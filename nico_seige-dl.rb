@@ -28,7 +28,7 @@ end
 
 mail = "mailaddress" #write your mailaddress of niconico account
 pass = "password" #write your password of niconico account
-id = 2003928
+id = 961724
 sourceURL = "http://seiga.nicovideo.jp/image/source/"
 seiga_url = "http://seiga.nicovideo.jp/seiga/"
 cookie = login(mail,pass)
