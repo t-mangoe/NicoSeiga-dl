@@ -12,7 +12,6 @@ agent.post(LOGIN, 'mail' => mail, 'password' => pass)
 
 id = 961724
 sourceURL = "http://seiga.nicovideo.jp/image/source/"
-seiga_url = "http://seiga.nicovideo.jp/seiga/"
 
 url = sourceURL + id.to_s
 data = agent.get(url)
